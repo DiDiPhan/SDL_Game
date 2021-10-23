@@ -1,0 +1,5 @@
+vong$ 1
+Num_Life$ 4
+Now_Score$ 90
+H_score$ 1555
+EndGame$ 0

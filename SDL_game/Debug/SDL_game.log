@@ -1,0 +1,33 @@
+﻿  Amo_Obj.cpp
+  Common_Func.cpp
+  Explosion_Obj.cpp
+  Gift_Obj.cpp
+  main.cpp
+D:\SDL_game\SDL_game\main.cpp(84,31): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\main.cpp(180,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(376,31): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\main.cpp(445,35): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\main.cpp(480,132): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(480,79): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(487,132): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(487,79): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(496,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(497,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(555,35): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\main.cpp(571,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SDL_game\SDL_game\main.cpp(572,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Base_Obj.cpp
+  Main_Obj.cpp
+D:\SDL_game\SDL_game\Main_Obj.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\Main_Obj.cpp(175,11): warning C4018: '<': signed/unsigned mismatch
+  Num_Main_Life.cpp
+D:\SDL_game\SDL_game\Num_Main_Life.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+  Text_Obj.cpp
+  Threat_Obj.cpp
+D:\SDL_game\SDL_game\Threat_Obj.cpp(9,21): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+D:\SDL_game\SDL_game\Threat_Obj.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\Threat_Obj.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+D:\SDL_game\SDL_game\Threat_Obj.cpp(187,10): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\SDL_game\SDL_game\Base_Obj.cpp(33): warning C4715: 'Base_Obj::ShowCaret': not all control paths return a value
+  SDL_game.vcxproj -> D:\SDL_game\Debug\SDL_game.exe
